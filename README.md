@@ -10,19 +10,12 @@ Varo Money is a mobile-only neobank. Neobank is an internet-only bank, no physic
 The company attracts young customers who are disillusioned with traditional banks. Varo money has a social mission to lower the cost of banking by providing;
 
 * Free banking
-
-   
-   *-Savings account with 1.5 % APY
-   
-   *-Live customer service 24/7*
-   
-   *-A secure banking system*
-   
-   *-Personal loan up to $25000.00*
-   
-   *-No -fee overdraft up to $50*
-   
-   *-Varo allows access to over 55000 all points ATMs for free.*
+* Savings account with 1.5 % APY
+* Live customer service 24/7
+* A secure banking system
+* Personal loan up to $25000.00
+* No -fee overdraft up to $50
+* Varo allows access to over 55000 all points ATMs for free.
     
 Currently, it has more than 1 million customers. Varo money uses Artificial  Intelligence to understand customers' way of banking and offer financial insight. Varo money believes that technology is moving from logic to emotion; it is not just collecting data; it is about learning customers' emotions and interests to provide the best possible experience, create connection and enable exchange. It also uses Temenos Transact as its core banking technology. Temenos Transact is a widely used banking software. Different financial institutes and industries are using it. Over 100 banks across the world are using Temenos Transact banking solution. According to the Temenos Transact website," Using cloud-native and agnostic technology" to provide an efficient banking function across retail and other industries. 
 
