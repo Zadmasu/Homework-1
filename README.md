@@ -10,7 +10,7 @@ The company attracts young customers who are disillusioned with traditional bank
 
    *-Free banking*
    
-   *-Savings account with 1.5 % APY
+   *-Savings account with 1.5 % APY*
    
    *-Live customer service 24/7
    *-A secure banking system 
