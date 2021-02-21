@@ -7,8 +7,8 @@ Varo Money is a mobile-only neobank. Neobank is an internet-only bank, no physic
 ## Business Activities and Landscape
 
 The company attracts young customers who are disillusioned with traditional banks. Varo money has a social mission to lower the cost of banking by providing; 
-    *Free banking,
     
+    *Free banking
     *Savings account with 1.5 % APY
     *Live customer service 24/7
     *A secure banking system 
