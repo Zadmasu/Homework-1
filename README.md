@@ -1,6 +1,6 @@
 # Varo Money
 
-![Varo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.fintechfutures.com%2F2020%2F04%2Fvaro-money-takes-on-movens-consumer-accounts%2F&psig=AOvVaw2fHwLYZsUoLJuqRPX0YUo5&ust=1614036494883000&source=images&cd=vfe&ved=0CAYQjRxqFwoTCMjnkdeQ_O4CFQAAAAAdAAAAABAD)
+![Varo](https://nmgprod.s3.amazonaws.com/media/files/f1/a0/f1a0146651b2a955c7ac92ca22cb2bbd/cover_image_1581413337.png.760x400_q85_crop_upscale.png)
 ## Overview and Origin
 
 Varo Money is a mobile-only neobank. Neobank is an internet-only bank, no physical contact, and physical location. It was founded in 2015 by Colin Walsh and Kolya Klymenko and launched in 2017.  According to an article published by IBS Intelligence, "Varo, the first mobile-centric national bank charter in the U.S." It uses Temenos Transact as its core banking technology." Until June 3, 2020, Varo money raised $419.4 million.  This week, NBA star Russell Westbrook invested around $63 million in Varo money. 
