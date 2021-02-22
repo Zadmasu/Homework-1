@@ -30,7 +30,7 @@ Chime, Current, Space, Cleo, N26, Empower Finance, and Level are some of Varos c
 
 ## Recommendation
 
-I recommend the company to incorporate securities investment into its service. Recently, the stock market is bringing many first-time investors. According to the wall street journal published on Dec-30-20, "more than 10 million new brokerage accounts were opened" in 2020 alone. Robinhood app was downloaded 500000 times in December. Currently, Robinhood has over 20 million users. And it has a plan to provide a banking service in the future. And it already has tens of millions of customers to start with. Due to the GameStop incident, many individual investors are not happy with Robinhood. Varo should use this to its advantage and start providing securities investment services and draw customers from Robinhood.
+I recommend the company to incorporate securities investment into its service. The stock market is bringing many first-time investors. According to the wall street journal published on Dec-30-20, "more than 10 million new brokerage accounts were opened" in 2020 alone. Robinhood app was downloaded 500000 times in December. Currently, Robinhood has over 20 million users. And it has a plan to provide a banking service in the future. And it already has tens of millions of customers to start with. Due to the GameStop incident, many individual investors are not happy with Robinhood. Varo should use this to its advantage and start providing securities investment services and draw customers from Robinhood.
 
 # Citation 
 
