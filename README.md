@@ -34,4 +34,14 @@ The number of customers and brand are some of the metrics used to measure the su
 
 I recommend the company to incorporate securities investment into its service. Recently, the stock market is bringing many first-time investors. According to the wall street journal published on Dec-30-20, "more than 10 million new brokerage accounts were opened" in 2020 alone. Robinhood app was downloaded 500000 times in December. Currently, Robinhood has over 20 million users. And it has a plan to provide a banking service in the future. And it already has tens of millions of customers to start with. Due to the GameStop incident, many individual investors are not happy with Robinhood. Varo should use this to its advantage and start providing securities investment services and draw customers from Robinhood.
 
+# Citation 
+
+* Varo, Editors at, et al. “Design Your Own Future with Banking Technology.” Varo Bank, 19 Oct. 2020, www.varomoney.com/picking-a-bank/design-your-own-future-with-banking-technology/.
+
+* “Varo, Banking Startup With a Social Mission, Makes History.” Varo Bank, 12 Aug. 2020, www.varomoney.com/press_release/varo-money-banking-startup-with-a-social-mission-makes-history/.
+
+* “First Consumer Fintech in US History Gains Full Regulatory Approval to Become a National Bank.” Varo Bank, 31 July 2020, www.varomoney.com/press_release/first-consumer-fintech-in-us-history-gains-full-regulatory-approval-to-become-a-national-bank/.
+
+* Young, Jabari. “NBA Star Russell Westbrook Invests in Varo Bank after $63 Million Funding Round.” CNBC, CNBC, 18 Feb. 2021, www.cnbc.com/2021/02/18/russell-westbrook-invests-in-varo-bank-after-63-million-funding-round.html.
+
 
