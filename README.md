@@ -50,4 +50,6 @@ I recommend the company to incorporate securities investment into its service. R
 
 * Temenos. “Temenos Transact – Core Banking Software.” Temenos US, 16 Dec. 2020, www.temenos.com/us/products/transact/.
 
+* McCabe, Caitlin. “New Army of Individual Investors Flexes Its Muscle.” The Wall Street Journal, Dow Jones &amp; Company, 30 Dec. 2020, www.wsj.com/articles/new-army-of-individual-investors-flexes-its-muscle-11609329600. 
+
 
