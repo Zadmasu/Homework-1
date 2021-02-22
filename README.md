@@ -44,4 +44,10 @@ I recommend the company to incorporate securities investment into its service. R
 
 * Young, Jabari. “NBA Star Russell Westbrook Invests in Varo Bank after $63 Million Funding Round.” CNBC, CNBC, 18 Feb. 2021, www.cnbc.com/2021/02/18/russell-westbrook-invests-in-varo-bank-after-63-million-funding-round.html.
 
+* 2020, 4th June. “Varo Raises $241m Series D with New Investor Gallatin Point Capital.” FinTech Futures, 3 June 2020, www.fintechfutures.com/2020/06/varo-raises-241m-series-d-with-new-investor-gallatin-point-capital/.
+
+* Perez, Sarah. “Challenger Bank Varo, Soon to Become a Real Bank, Raises $241M Series D.” TechCrunch, TechCrunch, 3 June 2020, techcrunch.com/2020/06/03/challenger-bank-varo-soon-to-become-a-real-bank-raises-241m-series-d/#:~:text=To%20date%2C%20Varo%20has%20raised,are%20taking%20on%20traditional%20banks.
+
+* Temenos. “Temenos Transact – Core Banking Software.” Temenos US, 16 Dec. 2020, www.temenos.com/us/products/transact/.
+
 
