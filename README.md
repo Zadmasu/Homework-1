@@ -25,9 +25,7 @@ Currently, it has more than 1 million customers. Varo money uses Artificial  Int
 
 ## Result
 
-Chime, Current, Space, Cleo, N26, Empower Finance, and Level are some of Varos competitors. Varo is the first and only fully digital bank to receive a national charter, and it has the most ATM access points compared to its competitors. . I believe that money other will follow Russell Westbrook's footstep and invest in Varo. 
-
-The number of customers and brand are some of the metrics used to measure the success of a company. Varo already passed one million customers; this is a huge number for a three years old company. And other celebrities will follow the footsteps of Russel Westbrook and give the brand more news coverage and attract different customers. And also, some of the steps they took to lower banking costs will make them preferable over other traditional banks and competitors. 
+Chime, Current, Space, Cleo, N26, Empower Finance, and Level are some of Varos competitors. Varo is the first and only fully digital bank to receive a national charter, and it has the most ATM access points compared to its competitors. The number of customers and brand are some of the metrics used to measure the success of a company. Varo already passed one million customers; this is a huge number for a three years old company. And other celebrities will follow the footsteps of Russel Westbrook and give the brand more news coverage and attract different customers. And also, some of the steps they took to lower banking costs will make them preferable over other traditional banks and competitors. 
 
 
 ## Recommendation
